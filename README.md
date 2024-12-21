@@ -4,14 +4,17 @@ Welcome to the repository for the GAN Task 4 project! This project is part of th
 
 ## Table of Contents 📚
 - [Project Overview](#project-overview)
+- [Data Set](#data-set)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [Contact](#data-set)
 
 ## Project Overview 📝
 In this project, we explore Generative Adversarial Networks (GANs) and their applications. The main objective is to implement and experiment with GANs to generate synthetic data. This notebook contains all the necessary code and explanations to understand and replicate the experiments.
+
+## Data Set 📝
+[Kaggle](https://www.kaggle.com/datasets/soumikrakshit/anime-faces)
 
 ## Installation 🛠️
 To get started with this project, follow these steps:
